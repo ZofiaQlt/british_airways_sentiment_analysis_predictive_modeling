@@ -4,7 +4,7 @@
 
 <br>
 
- * Scraped and analysed customer review data to uncover findings
+ * Scraped and analysed customer review data from https://www.airlinequality.com/airline-reviews/british-airways to uncover findings
  * Built a Random Forest predictive model to understand factors that influence buying
    behaviour
 
